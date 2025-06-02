@@ -1,0 +1,15 @@
+[
+    {
+        "id": "C001",
+        "Nama": "Isti",
+        "Visi": "Hidup Sehat",
+        "Jumlah Suara": 6,
+        "suara": 2
+    },
+    {
+        "id": "C002",
+        "Nama": "Rosya",
+        "Visi": "Gaji 2 digit",
+        "Jumlah Suara": 6
+    }
+]

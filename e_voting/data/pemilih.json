@@ -1,0 +1,40 @@
+[
+    {
+        "id": "P001",
+        "Nama": "Esa",
+        "Jurusan": "Teknik Informatika",
+        "Sudah Memilih": true,
+        "sudah_memilih": true
+    },
+    {
+        "id": "P002",
+        "Nama": "Zaskia",
+        "Jurusan": "Teknik Informatika",
+        "Sudah Memilih": true,
+        "sudah_memilih": true
+    },
+    {
+        "id": "P003",
+        "Nama": "Nasywa",
+        "Jurusan": "Teknik Informatika",
+        "Sudah Memilih": true
+    },
+    {
+        "id": "P004",
+        "Nama": "Salwa",
+        "Jurusan": "Teknik Informatika",
+        "Sudah Memilih": true
+    },
+    {
+        "id": "P005",
+        "Nama": "Isti",
+        "Jurusan": "Teknik Informatika",
+        "Sudah Memilih": false
+    },
+    {
+        "id": "P006",
+        "Nama": "Rosya",
+        "Jurusan": "Teknik Informatika",
+        "Sudah Memilih": false
+    }
+]
